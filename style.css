@@ -54,3 +54,53 @@ main > p{
 .sottolineatura{
     background-color: yellow;
 }
+
+ul{
+    margin: 0;
+    margin-top: 10px;
+}
+
+
+table{
+    margin-top: 50px;
+    border-spacing: 0; /*Rimuove gli spazi tra le celle della tabella */
+}
+
+th{
+    background-color: #20a9e5;
+    color: white;
+    text-align: left;
+}
+
+.riga-colorata{
+    background-color: #b1e5f2;
+}
+
+td{
+    width: 33%;
+}
+
+footer{
+    margin-top: 40px;
+}
+
+footer h3{
+    font-size: 20px;
+    color: grey;
+}
+
+.grafico{
+    margin-top: 10px;
+}
+
+.contenitore{
+    position: relative;
+}
+
+.dettagli-immagine{
+    position: absolute;
+    color: white;
+    bottom: 150px;
+    left: 20px;
+    font-size: 25px;
+}
