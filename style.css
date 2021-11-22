@@ -1,0 +1,11 @@
+header{
+    background-color: #4ea0ff;
+    background-image: url(img/pattern.png);
+    height: 175px;
+}
+
+.sfondo-titolo{
+    height: 100%;
+    width: 25%;
+    padding-top: 30px; /*Per spostare il logo più in basso */
+}
